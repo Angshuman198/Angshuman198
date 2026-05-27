@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Angshuman Karmakar</h1>
-<h3 align="center">A passionate machine learning enthusiast from India</h3>
+<h1 align="center">I'm Angshuman Karmakar</h1>
 
 - I’m currently learning **Pytorch and Flutter**
 
