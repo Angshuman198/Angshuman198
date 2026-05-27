@@ -1,4 +1,4 @@
-<h1 align="center">I'm Angshuman Karmakar</h1>
+<h2 align="center">I'm Angshuman Karmakar</h2>
 
 - I’m currently learning **Pytorch and Flutter**
 
