@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Angshuman Karmakar</h1>
 <h3 align="center">A passionate machine learning enthusiast from India</h3>
 
-- I’m currently learning **Flutter and Pytorch**
+- I’m currently learning **Pytorch and Flutter**
 
 - How to reach me **karmakar.angshuman19@gmail.com**
 
