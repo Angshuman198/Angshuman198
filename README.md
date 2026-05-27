@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Angshuman Karmakar</h1>
 <h3 align="center">A passionate machine learning enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Flutter and scikit-learn**
+- I’m currently learning **Flutter and Pytorch**
 
-- 📫 How to reach me **karmakar.angshuman19@gmail.com**
+- How to reach me **karmakar.angshuman19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
