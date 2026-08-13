@@ -1,6 +1,6 @@
 <h1 align="center">I'm Angshuman Karmakar</h1>
 
-- and I have anatidaephobia
+and I have anatidaephobia
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
