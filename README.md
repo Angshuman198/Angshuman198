@@ -1,8 +1,6 @@
-<h1 align="center">Hi, I'm Angshuman Karmakar</h1>
+<h1 align="center">I'm Angshuman Karmakar</h1>
 
-- I’m currently learning **Pytorch and Flutter**
-
-- How to reach me **karmakar.angshuman19@gmail.com**
+- and I have anatidaephobia
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
