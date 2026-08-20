@@ -1,4 +1,4 @@
-<h1 align="center">I'm Angshuman Karmakar</h1>
+<h1 align="center">Hi, I'm Angshuman Karmakar</h1>
 
 and I have anatidaephobia
 
